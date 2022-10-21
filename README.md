@@ -1,5 +1,5 @@
-Hi, I’m @anarichter 
-:-)
+Hi, I’m @anarichter. 
+
 
 <!--- 
 - 👀 I’m interested in ...
