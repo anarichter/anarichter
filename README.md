@@ -1,5 +1,4 @@
-Hi, I’m @anarichter. 
-
+Hi, there. I'm Ana. 
 
 <!--- 
 - 👀 I’m interested in ...
