@@ -1,4 +1,6 @@
-Hi, there. I'm Ana. 
+hi, there – I’m Ana!
+
+https://anarichter.github.io
 
 <!--- 
 - 👀 I’m interested in ...
